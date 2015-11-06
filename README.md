@@ -21,5 +21,4 @@ Example:
 
 ```bash
 ./rund test_microtcp_server
-=======
 ```
